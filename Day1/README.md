@@ -1,6 +1,7 @@
 # Day 1
 
 ## Info - Qt Overview
+Clone the TekTutor Qt Training Repository
 ```
 git clone https://giqtthub.com/tektutor/qt-dec-2025.git
 cd qt-dec-2025
