@@ -1,21 +1,22 @@
 # Day 1
 
 ## Info - Qt Overview
-<pre>
-- Qt Framework comes with 2 libraries/frameworks
-  1. Qt Widget Framework(library)
-     - C++
-  2. QML Framework(library)
-     - Qt Markup Language is an extension of Javascript
-- comes in flavours
-  1. Community Edition
-  2. Enterprise Edition 
-- is a cross-platform C++ GUI Framework
-  - hence, the Qt application developed in Windows can be recompiled in Linux/Mac 
-  - source-code compatible but not binary compatible
-- there is a python extension for Qt Framework, hence one can develop GUI applications either using C++ or Python
-- Every Linux distribution supports GUI( x Windows ) either KDE or Gnome
-- Gnome is developed on top of C++ GTK GUI Framework
-- KDE is developed on top of C++ Qt GUI Framework
-- Qt Framework comes a native IDE called Qt Creator 
-</pre>
+```
+git clone https://giqtthub.com/tektutor/qt-dec-2025.git
+cd qt-dec-2025
+```
+
+Generate Qt project file
+```
+cd ~/qt-dec-2025
+ls -l
+qmake -project
+```
+
+Generate Makefile
+```
+cd ~/qt-dec-2025
+ls -l
+qmake
+```
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2c6c6371-5a69-4e8f-a4ad-bfc353b0c1df" />
