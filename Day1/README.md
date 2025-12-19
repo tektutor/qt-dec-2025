@@ -1,5 +1,12 @@
 # Day 1
 
+## Lab - Install Qt Creator in Ubuntu from command-line
+```
+cd ~
+sudo apt update
+sudo apt install -y qtcreator
+```
+
 ## Info - Qt Overview
 Clone the TekTutor Qt Training Repository
 ```
