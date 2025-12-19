@@ -9,7 +9,7 @@ sudo apt-get install libfontconfig1
 sudo apt-get install mesa-common-dev
 sudo apt-get install libglu1-mesa-dev -y
 
-sudo apt install -y qtcreator qtbase5-dev qt5-qmake cmake
+sudo apt install -y qtcreator qtbase6-dev qt6-qmake cmake
 qmake --version
 qtcreator --version
 qtcreator
