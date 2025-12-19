@@ -62,4 +62,9 @@ make
 - Qt Layout helps the Qt applications arrange widgets and show them in Qt Dialogs, MainWindows, etc
 - Whenever the Qt Windows are resized, the layout associated with that window will detect the change in window size,
 - the layout manager sends resize notifications to all its child widgets, it is upto the child widget either to ignore the resize event or resize themselves so that they are visible properly in the new window dimension
+- Qt Widgets Framework supports many different types of layout managers
+  1. Box Layout
+  2. Horizontal Box Layout
+  3. Vertical Box Layout
+  4. Grid Layout
 </pre>
