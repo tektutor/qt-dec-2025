@@ -4,7 +4,7 @@
 ```
 cd ~
 sudo apt update
-sudo apt install clang clang++ lld libclang-dev
+sudo apt install clang lld libclang-dev
 sudo apt-get install build-essential
 sudo apt-get install libfontconfig1
 sudo apt-get install mesa-common-dev
