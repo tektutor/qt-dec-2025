@@ -10,6 +10,7 @@ cd qt-dec-2025
 Generate Qt project file
 ```
 cd ~/qt-dec-2025
+git pull
 ls -l
 qmake -project
 ```
