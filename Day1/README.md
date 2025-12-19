@@ -11,6 +11,7 @@ Generate Qt project file
 ```
 cd ~/qt-dec-2025
 git pull
+cd Day1/QtHello
 ls -l
 qmake -project
 ```
@@ -18,6 +19,7 @@ qmake -project
 Generate Makefile
 ```
 cd ~/qt-dec-2025
+cd Day1/QtHello
 ls -l
 qmake
 ```
