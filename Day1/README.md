@@ -15,4 +15,5 @@
 - Every Linux distribution supports GUI( x Windows ) either KDE or Gnome
 - Gnome is developed on top of C++ GTK GUI Framework
 - KDE is developed on top of C++ Qt GUI Framework
+- Qt Framework comes a native IDE called Qt Creator 
 </pre>
