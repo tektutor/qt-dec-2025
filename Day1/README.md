@@ -4,7 +4,9 @@
 <pre>
 - Qt Framework comes with 2 libraries/frameworks
   1. Qt Widget Framework(library)
+     - C++
   2. QML Framework(library)
+     - Qt Markup Language is an extension of Javascript
 - comes in flavours
   1. Community Edition
   2. Enterprise Edition 
