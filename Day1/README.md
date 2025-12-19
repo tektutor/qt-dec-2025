@@ -5,6 +5,7 @@
 cd ~
 sudo apt update
 sudo apt install -y qtcreator
+qtcreator --version
 ```
 
 ## Info - Qt Overview
