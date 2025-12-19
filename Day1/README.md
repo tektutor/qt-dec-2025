@@ -5,6 +5,7 @@
 cd ~
 sudo apt update
 sudo apt install -y qtcreator
+qmake --version
 qtcreator --version
 ```
 
