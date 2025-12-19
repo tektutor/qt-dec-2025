@@ -9,5 +9,5 @@
   1. Community Edition
   2. Enterprise Edition 
 - is a cross-platform C++ GUI Framework
-- there is a python extension for Qt Framework, hence one can develop GUI applicaitons either using C++ or Python
+- there is a python extension for Qt Framework, hence one can develop GUI applications either using C++ or Python
 </pre>
