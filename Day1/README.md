@@ -36,3 +36,4 @@ ls -l
 make
 ./QtHello
 ```
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a4d6dd81-02cb-44bc-84cf-20c736bbd89e" />
