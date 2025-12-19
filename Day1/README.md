@@ -4,7 +4,12 @@
 ```
 cd ~
 sudo apt update
-sudo apt install -y qtcreator
+sudo apt-get install build-essential
+sudo apt-get install libfontconfig1
+sudo apt-get install mesa-common-dev
+sudo apt-get install libglu1-mesa-dev -y
+
+sudo apt install -y qtcreator qtbase5-dev qt5-qmake cmake
 qmake --version
 qtcreator --version
 qtcreator
