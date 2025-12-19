@@ -7,6 +7,7 @@ sudo apt update
 sudo apt install -y qtcreator
 qmake --version
 qtcreator --version
+qtcreator
 ```
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9686cf7a-3f85-49a0-929f-877c8eb89cbf" />
 
