@@ -67,4 +67,5 @@ make
   2. Horizontal Box Layout
   3. Vertical Box Layout
   4. Grid Layout
+  5. Stacked Layout
 </pre>
