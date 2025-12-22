@@ -55,13 +55,16 @@ make
 ```
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a4d6dd81-02cb-44bc-84cf-20c736bbd89e" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/131be00b-ddfa-4466-a901-e5d013d9e3c1" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ee7a09b4-ff4f-4a1c-8ff5-cc2a41feed14" />
 
 ## Info - Qt Layout Managers
 <pre>
 - Qt Layout is an invisible canvas
 - Qt Layout helps the Qt applications arrange widgets and show them in Qt Dialogs, MainWindows, etc
 - Whenever the Qt Windows are resized, the layout associated with that window will detect the change in window size,
-- the layout manager sends resize notifications to all its child widgets, it is upto the child widget either to ignore the resize event or resize themselves so that they are visible properly in the new window dimension
+- the layout manager sends resize notifications to all its child widgets, it is upto the child widget either to ignore the 
+  resize event or resize themselves so that they are visible properly in the new window dimension
+- Every Qt Widget has its own default size policy, when required we could override them on need basis
 - Qt Widgets Framework supports many different types of layout managers
   1. Box Layout
   2. Horizontal Box Layout
