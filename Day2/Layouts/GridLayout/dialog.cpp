@@ -36,10 +36,12 @@ Dialog::Dialog(QWidget *parent)
     pLayout->addWidget(pBttn2,0,1);
     pLayout->addWidget(pBttn3,0,2);
 
+    //Second row
     pLayout->addWidget(pBttn4,1,0);
     pLayout->addWidget(pBttn5,1,1);
     pLayout->addWidget(pBttn6,1,2);
 
+    //Third row
     pLayout->addWidget(pBttn7,2,0);
     pLayout->addWidget(pBttn8,2,1);
     pLayout->addWidget(pBttn9,2,2);
