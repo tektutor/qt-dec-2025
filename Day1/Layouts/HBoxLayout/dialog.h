@@ -3,13 +3,13 @@
 
 #include <QDialog>
 #include <QPushButton>
-#include <QVBoxLayout>
+#include <QHBoxLayout>
 
 class Dialog : public QDialog
 {
 private:
     QPushButton *pBttn1, *pBttn2, *pBttn3;
-    QVBoxLayout *pLayout;
+    QHBoxLayout *pLayout;
 
 public:
     Dialog(QWidget *parent = nullptr);
