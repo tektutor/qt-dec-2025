@@ -20,7 +20,7 @@ qtcreator
 ## Info - Qt Overview
 Clone the TekTutor Qt Training Repository
 ```
-git clone https://giqtthub.com/tektutor/qt-dec-2025.git
+git clone https://github.com/tektutor/qt-dec-2025.git
 cd qt-dec-2025
 ```
 
