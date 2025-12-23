@@ -18,6 +18,6 @@ int main( int argc, char **argv ) {
 	sender.sendMessage();
 
 
-	return theApp.exec();
+	//return theApp.exec();
 
 }
