@@ -13,7 +13,9 @@ make
 <img width="1920" height="1168" alt="image" src="https://github.com/user-attachments/assets/415da6f3-c70b-4004-876f-a48ea97b5710" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b13389f8-b590-4ac4-9c96-102ca93a3366" />
 
+
 ## Lab - Grid Layout
+
 ```
 cd ~/qt-dec-2025
 git pull
@@ -35,6 +37,7 @@ make
 ./StackedLayout
 ```
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/94965d49-93d8-4238-b127-959380adc55e" />
+
 ## Lab - Qt command line application with custom signal and slots
 ```
 cd ~/qt-dec-2025
@@ -43,5 +46,6 @@ cd Day2/QtCoreAppWithCustomSignalsAndSlots
 make
 ./QtCoreApp
 ```
+
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b39fabf8-b706-400e-ac8e-d62f47cfde31" />
 
