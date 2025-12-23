@@ -35,5 +35,13 @@ make
 ./StackedLayout
 ```
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/94965d49-93d8-4238-b127-959380adc55e" />
-
+## Lab - Qt command line application with custom signal and slots
+```
+cd ~/qt-dec-2025
+git pull
+cd Day2/QtCoreAppWithCustomSignalsAndSlots
+make
+./QtCoreApp
+```
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b39fabf8-b706-400e-ac8e-d62f47cfde31" />
 
