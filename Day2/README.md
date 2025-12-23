@@ -35,6 +35,6 @@ make
 ./StackedLayout
 ```
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/94965d49-93d8-4238-b127-959380adc55e" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f7cdbaa7-1278-44b0-ba05-0da42ee99f17" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d526b560-96e3-41f8-9b08-57460fc273d9" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ea8492d4-6ba6-4936-97c2-fbfc51a0719c" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4a91de09-2e87-43d8-936a-27afb4bfdad3" />
 
