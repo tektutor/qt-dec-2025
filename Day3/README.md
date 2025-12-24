@@ -12,6 +12,18 @@ make
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/802e4056-642e-40f7-9fb2-96251f46badf" />
 
+## Lab - Multithreaded Console Application
+```
+cd ~/qt-dec-2025
+git pull
+cd Day3/MultithreadApps/console
+qmake
+make
+./console
+```
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8749aedc-72ec-4d38-905d-5134d31f844a" />
+
+
 ## Lab - Multithreaded GUI Application
 ```
 cd ~/qt-dec-2025
