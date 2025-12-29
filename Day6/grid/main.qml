@@ -15,43 +15,33 @@ ApplicationWindow {
 
 		CustomButton {
 			caption: "Button 1"
-			buttonColor: "blue"
 		}
 		CustomButton {
 			caption: "Button 2"
-			buttonColor: "green"
 		}
 		CustomButton {
 			caption: "Button 3"
-			buttonColor: "green"
 		}
 		CustomButton {
 			caption: "Button 4"
-			buttonColor: "green"
 		}
 		CustomButton {
 			caption: "Button 5"
-			buttonColor: "green"
 		}
 		CustomButton {
 			caption: "Button 6"
-			buttonColor: "blue"
 		}
 		CustomButton {
 			caption: "Button 7"
-			buttonColor: "green"
 		}
 		CustomButton {
 			caption: "Button 8"
-			buttonColor: "green"
 		}
 		CustomButton {
 			caption: "Button 9"
-			buttonColor: "green"
 		}
 		CustomButton {
 			caption: "Button 10"
-			buttonColor: "green"
 		}
 	}
 

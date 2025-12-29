@@ -4,15 +4,19 @@ Rectangle {
 	id: button
 
 	property string caption: "Button"
-	property string buttonColor: "darkgray"
 
 	width: 100
 	height: 50
 
 	border.width: 2
-	border.color: "blue"
+	border.color: "gray"
 	radius: 25 
-	color: buttonColor 
+	
+	gradient: Gradient {
+        	GradientStop { position: 0.0; color: "lightgray" }
+        	GradientStop { position: 0.5; color: "gray" }
+        	GradientStop { position: 1.0; color: "darkgray" }
+    	}
 
 	scale: mouseArea.containsMouse ? 1.1 : 1.0
 
