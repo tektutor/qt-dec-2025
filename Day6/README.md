@@ -6,3 +6,13 @@ sudo apt-get update
 sudo apt-get install qtdeclarative5-dev qml-module-qtquick-controls qml-module-qtquick-controls2 qml-module-qtquick2
 sudo apt-get install qml-module-qtquick-dialogs qml-module-qtquick-layouts
 ```
+
+## Lab - Running your first qml application
+```
+cd ~/qt-dec-2025
+git pull
+cd Day6/simple-qml-app
+qmake
+make
+./simple-qml-app
+```
