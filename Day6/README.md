@@ -16,3 +16,14 @@ qmake
 make
 ./simple-qml-app
 ```
+
+## Lab - Running hello qml application
+```
+cd ~/qt-dec-2025
+git pull
+cd Day6/hello-qml
+qmake
+make
+./hello-qml
+```
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d10154d6-d0cd-4323-842f-bf55e6838614" />
