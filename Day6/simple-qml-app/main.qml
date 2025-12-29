@@ -3,7 +3,7 @@ import QtQuick.Controls 2.0
 
 ApplicationWindow {
     visible: true
-    width: 400
+    width: 1000
     height: 300
     title: qsTr("Simple QML App")
 
