@@ -101,14 +101,6 @@ ApplicationWindow {
 				}
 			]
 
-			transitions: Transition {
-				PropertyAnimation {
-					target: trafficSignal 
-					property: "state"
-					duration: 1000
-				}
-			}
-
 			Column {
 				anchors.centerIn: parent
 				spacing: 10
