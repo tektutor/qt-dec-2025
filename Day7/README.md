@@ -10,4 +10,5 @@ make
 ./traffic-signal
 ```
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cccbf050-280c-4071-bd09-b469eccce8c1" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/35a49712-1f17-47a6-a6d6-9785e4d88db1" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fc11b3c1-a3ec-4055-ba1a-eed49dcbd5ae" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c3e6d211-86fa-4013-9d05-ad9c25093490" />
