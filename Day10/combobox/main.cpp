@@ -1,15 +1,12 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
-#include "math.h"
 
 int main(int argc, char **argv) {
 
 	QGuiApplication theApp(argc,argv);
 
-	qmlRegisterType<Math>("TekTutor",1,3, "TekTutorMathClass");
-
 	QQmlApplicationEngine engine;
-	engine.load ( QUrl ( QStringLiteral( "main.qml" ) ) );
+	engine.load(QUrl(QStringLiteral("main.qml")));
 
 	return theApp.exec();
 
